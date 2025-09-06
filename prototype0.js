@@ -31,5 +31,5 @@ export const cards = [
     "definition": "Ensuring that AI systems deployed in institutions align with democratic and public values.",
     "failureMode": "Opaque systems make high-stakes decisions without accountability or recourse.",
     "example": "Judges using closed-source risk scores with no explanation or audit."
-  },                                              
+  }                                             
 ];
